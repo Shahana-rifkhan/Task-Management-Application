@@ -111,18 +111,11 @@ A feature-rich task management tool enabling users to create, update, and manage
 
 ## 📝 Deployment
 
-- Deploy the application to **Vercel** or **Netlify** for a live demo.
+- Deployed application to **[https://crework-assign.vercel.app/]** for a live demo.
 - Ensure environment variables are properly configured during deployment.
 
 ---
 
-## 🚀 Submission Checklist
-
-1. **Live Demo URL**: A working deployment of the app (e.g., on Vercel or Netlify).
-2. **Public GitHub Repository**: Provide the repository link.
-3. **README**: A detailed README (this document) with all instructions.
-
----
 
 ## 💡 Future Enhancements
 
